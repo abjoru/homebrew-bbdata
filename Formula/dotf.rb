@@ -1,9 +1,9 @@
 class Dotf < Formula
   desc "Modular dotfile manager using git bare repo with sparse checkout"
   homepage "https://github.com/abjoru/dotf-v3"
-  version "3.0.6"
+  version "3.0.7"
   url "https://github.com/abjoru/dotf-v3/releases/download/v#{version}/dotf-v#{version}-macos-arm64"
-  sha256 "29200ada0859e55be438fc0e6f26d2ba26b995b5e1c05913134ec61de74f364d"
+  sha256 "8a1307b0ca02d11863dade58b4f23425243e5a8aa33ce760cc325e3edbefef01"
   license "BSD-3-Clause"
 
   depends_on :macos
